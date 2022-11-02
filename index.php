@@ -1,1 +1,3 @@
-<?php ?>
+<?php 
+$appName=”Mi aplicación web”;
+?>
